@@ -1,1 +1,2 @@
 # TF-IDF-cosine-similarity
+ project is a Java-based movie recommendation system that suggests the most relevant movie based on a user’s keyword input. It reads movie data (titles and overviews) from a CSV file and uses TF-IDF (Term Frequency–Inverse Document Frequency) to convert the text into numerical vectors. It then applies cosine similarity to compare the user input with each movie's overview and find the best match.
